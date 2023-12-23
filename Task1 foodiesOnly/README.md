@@ -11,6 +11,7 @@
   <li>cdnjs</li>
 </ul>
 <h3 align="center">Desktop View </h3>
+<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1%20foodiesOnly/assets/img/foodiesOnly-Desktop.png">
 
 <br>
 <h3 align="center"> Mobile View </h3>
