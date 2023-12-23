@@ -2,7 +2,7 @@
 <h1 align="center">foodiesOnly</h1>
 <p align="center">This is my Recipe Website that i developed. </p>
 <br>
-  <h2><em>Tech Stack of the Website</em></h2>
+  <h2><em>Tech Stack used for the Website</em></h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -15,4 +15,4 @@
 
 <br>
 <h3 align="center"> Mobile View </h3>
-
+<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1%20foodiesOnly/assets/img/foodiesOnly-Mobile.png">
