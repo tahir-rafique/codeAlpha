@@ -1,5 +1,5 @@
 <h1 align="center"> foodiesOnly </h1>
-<p align="center">This is my Recipe Website that i developed. </p>
+<p align="center">This is a Recipe Book Website by Tahir Rafique. </p>
 <br>
   <h2><em>Tech Stack of the Website</em></h2>
 <ul>
@@ -10,8 +10,7 @@
   <li>cdnjs</li>
 </ul>
 <h3 align="center">Desktop View </h3>
-<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1%20foodiesOnly/assets/img/foodiesOnly-Desktop.png">
-<img align="center" src="">
+<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Desktop.png">
 <br>
 <h3 align="center"> Mobile View </h3>
-<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1%20foodiesOnly/assets/img/foodiesOnly-Mobile.png">
+<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Moblie.png">
