@@ -13,4 +13,4 @@
 <img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Desktop.png">
 <br>
 <h3 align="center"> Mobile View </h3>
-<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Mobile.png" style="margin-right:50%;">
+<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Mobile.png">
