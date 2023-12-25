@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Issue Tracker</title>
+    <link rel="stylesheet" href="/style/style.css">
+</head>
+
+<body>
+    <div id="container">
+        <div id="leftContainer">
+            <div id="issueContainer">
+                <p id="title">Issue Tracker</p>
+                <p id="title2">Add a issue</p>
+                <label for="description">Description</label><br>
+                <input type="text" id="description" placeholder="Describe a issue"><br>
+                <label for="severity">Severity</label><br>
+                <select id="severity">
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select><br>
+                <label for="assign">Assign-To</label><br>
+                <input type="text" id="assign" placeholder="Enter responsible"><br>
+                <button id="addbutton">Add</button>
+            </div>
+        </div>
+
+        <div id="rightContainer"></div>
+    </div>
+</body>
+<script src="/function/index.js"></script>
+
+</html>
