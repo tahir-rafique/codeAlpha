@@ -1,1 +1,1 @@
-# CodeAlpha Issue Tracker System
+# Issue Tracker System
