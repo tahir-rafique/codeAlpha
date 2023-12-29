@@ -8,6 +8,7 @@
   <li>JavaScript</li>
   
 </ul>
+<br>
 <h3 align="center"> PreView </h3>
-<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Desktop.png">
+<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task2-Social%20Media%20Dashboard/socialMedia.png">
 <br>
