@@ -5,8 +5,10 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript Front-End & Back-end</li>
+  <li>JavaScript</li>
 </ul>
+<br>
+<br>
 <h3 align="center">Live View </h3>
 <img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Desktop.png">
 <br>
