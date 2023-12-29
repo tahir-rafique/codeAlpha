@@ -10,5 +10,5 @@
 <br>
 <br>
 <h3 align="center">Live View </h3>
-<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task1-Recipe%20Book%20Website/assets/img/foodiesOnly-Desktop.png">
+<img align="center" src="https://github.com/tahir-rafique/codeAlpha/blob/main/Task3-Issue%20Tracker%20System/issue.jpg">
 <br>
