@@ -1,5 +1,5 @@
 <h1 align="center"> Socail Media Dashboard </h1>
-<p align="center">This is a Recipe Book Website by Tahir Rafique. </p>
+<p align="center">  Created a Socail Media Dashboard which have aggregates of social profile </p>
 <br>
   <h2><em>Tech Stack of the Website</em></h2>
 <ul>
